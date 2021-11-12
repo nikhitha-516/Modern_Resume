@@ -1,0 +1,53 @@
+img {
+	border-radius: 50%;
+	width:250px;
+	height:250px;
+	vertical-align: middle;
+}
+.div1{
+	background-color: darkblue;
+}
+.para{
+	font-size: 150%;
+	color: white;
+	float: right;
+	margin-right: 50px;
+	margin-top: 50px;
+}
+.career{
+	color: blue;
+}
+.intern{
+	color: blue;
+}
+.executive{
+	font-size: 120%;
+}
+table,th,td{
+	border: 1px solid black;
+}
+.education{
+	color: blue;
+}
+.softskill{
+	color: blue;
+}
+.programskill{
+	color: blue;
+}
+.hobbies{
+	color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
